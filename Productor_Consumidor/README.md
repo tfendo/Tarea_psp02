@@ -8,4 +8,4 @@ No he sido capaz de conseguir que la salida por consola se vea como en la imagen
 
 La salida por consola del IDE se puede observar a continuación:
 
-![captura OrdenarNumeros](https://github.com/tfendo/psp01/blob/master/Actividad_1/capturas/Captura_1.png)
+![captura Productor_Consumidor](https://github.com/tfendo/tarea_psp02/blob/master/Productor_Consumidor/capturas/Captura%20de%20pantalla%202018-12-02%20a%20las%2018.29.07.png)
