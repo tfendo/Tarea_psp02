@@ -12,8 +12,8 @@ En la clase principal, una vez generados los semáforos para los palillos, prime
 
 En la siguiente captura se puede apreciar el correcto funcionamiento de la aplicación:
 
-![captura OrdenarNumeros](https://github.com/tfendo/psp01/blob/master/Actividad_1/capturas/Captura_1.png)  
+![captura 5_Filosofos](https://github.com/tfendo/tarea_psp02/blob/master/Filosofos/capturas/Captura%20de%20pantalla%202018-12-02%20a%20las%2017.28.06.png)  
 
 También probé a crear un total de 15 hilos, para asegurarme de que no se producía ningún problema de concurrencia.
 
-![captura OrdenarNumeros](https://github.com/tfendo/tarea_psp02/blob/master/Filosofos/capturas/Captura%20de%20pantalla%202018-12-02%20a%20las%2017.25.37.png)  
+![captura 15_Filosofos](https://github.com/tfendo/tarea_psp02/blob/master/Filosofos/capturas/Captura%20de%20pantalla%202018-12-02%20a%20las%2017.25.37.png)  
